@@ -1,9 +1,14 @@
+body {
+    background-color: bisque;
+}
+
 h1, h2, h3 {
     font-family: "DejaVu Sans Mono" sans-serif;
 }
 
 h1 {
     font-size: 35px;
+    color: aqua;
 }
 
 h2 {
@@ -12,4 +17,5 @@ h2 {
 
 p {
     font-size: 15px;
+    color: red;
 }
